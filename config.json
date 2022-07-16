@@ -1,0 +1,9 @@
+﻿{
+    "database": {
+        "host": "172.18.0.4",
+        "port": 3306,
+        "user": "root",
+        "password": "root",
+        "database": "general_shop"
+    }
+}
